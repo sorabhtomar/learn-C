@@ -1,6 +1,6 @@
 #include<stdio.h>
  int main()
  {
-   printf("hello sanket"); // print hello sanket
+   printf("hello C"); // print hello sanket
   return 0;
 }
