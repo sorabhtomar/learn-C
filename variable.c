@@ -1,3 +1,6 @@
+/*
+addition of two Numbers program in C
+*/
 #include<stdio.h>
 int main()
 {

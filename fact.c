@@ -1,3 +1,6 @@
+/*
+Factorial program in C
+*/
 #include<stdio.h>
 void main()
 {
