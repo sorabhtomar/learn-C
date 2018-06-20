@@ -15,6 +15,5 @@ void main()
       }
         if(fact==2)
           printf("%d ",i);
-  }
-
+     }
 }
