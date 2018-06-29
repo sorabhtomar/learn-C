@@ -1,3 +1,6 @@
+/*
+take input from user and print the integer
+*/
 #include<stdio.h>
 int main()
 {
